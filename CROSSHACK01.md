@@ -13,3 +13,13 @@ PROJECT NAME
 Put a nice lovely description here.
 
 Made by A, B, and C
+
+Mobile Orchestra
+------------
+- Code: https://github.com/fureigh/mobile-orchestra
+- Live Demo: http://cfa.bikehax.org & http://cfa.bikehax.org/speaker
+- Presentation: n/a
+
+A webapp that generates music based on data from a riders on a group bike ride.
+
+Made by Drew, Jden, Maya, Jeremia, Max, Ainsley
