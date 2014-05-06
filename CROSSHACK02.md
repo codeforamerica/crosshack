@@ -8,7 +8,7 @@ skillcamp
 ---------
 - Code: https://github.com/codeforamerica/skillcamp
 - Live Demo: http://www.skill.camp/
-- Presentation: n/a
+- Presentation: https://docs.google.com/presentation/d/12JzEbCQWuffR7-Xvi8q71C8JBIAodvWbnSuAgczVaqI/edit?usp=sharing
 
 A framework for instructors to share their workshop curricula, assets, slides, handouts, etc. Makes it easier for groups to reproduce presentations.
 
