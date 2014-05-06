@@ -4,6 +4,8 @@ April 28th, 2014
 
 The theme is Education. Whether it’s the school system, the way people learn their way around a city, a mentoring platform, or learning a new language, come hack on Educating! http://tiny.cc/hackeducation
 
+![CROSSHACK02 badge](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_Education.png)
+
 skillcamp
 ---------
 - Code: https://github.com/codeforamerica/skillcamp
@@ -16,6 +18,8 @@ Code for America fellows undergo intense training in January before they head to
 
 Made by Alex Tran, Dan Getelman, Drew Wilson, Maya Benari, and Molly McLoed
 
+![Badass Badge](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_BadAssery.png)
+
 Sink the Vote
 -------------
 - Code: https://github.com/codeforamerica/sink-the-vote
@@ -25,6 +29,8 @@ Sink the Vote
 A little #crosshack around voter disenfranchisement.
 
 Made by Rhys Fureigh, Eric Schwartz, Erica Kwan, Frances Berriman
+
+![Risktaker Badge](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_RiskTaker.png)
 
 My Pet Project
 --------------
@@ -38,6 +44,8 @@ Because of what's around them, the place you pick is important. If you put your 
 
 Made by Lyzi Diamond, Anna-Marie, Maksim, Doc
 
+![Storyteller Award](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_StoryTeller.png)
+
 Work for America
 ------------
 - Code: https://github.com/codeforamerica/workforamerica
@@ -47,3 +55,5 @@ Work for America
 A compiled list of government tech / civic tech jobs screened by the Code for America Peer Network. Built during the CrossHack02 internal intra-CfA Hackathon.
 
 Made by Andrew Maier, Garrett Jacobs, Ainsley Wagoner, Sam Hashemi
+
+![Peoples Choice](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_PeoplesChoice.png)
