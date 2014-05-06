@@ -43,8 +43,7 @@ All your friends are having a pet party on the Fourth of July! You are opening a
 Because of what's around them, the place you pick is important. If you put your animal shelter closer to parks, bus stops, pet stores, vets offices, or areas with lots of people, your pets will be adopted faster! To look at where each of these things are, click the buttons on the bottom of the screen. Hurry though -- you only have a month!
 
 Made by Lyzi Diamond, Anna-Marie, Maksim, Doc
-
-![Storyteller Award](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_StoryTeller.png)
+![Peoples Choice](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_PeoplesChoice.png)
 
 Work for America
 ------------
@@ -57,3 +56,10 @@ A compiled list of government tech / civic tech jobs screened by the Code for Am
 Made by Andrew Maier, Garrett Jacobs, Ainsley Wagoner, Sam Hashemi
 
 ![Peoples Choice](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_PeoplesChoice.png)
+
+
+Code name: Blankit
+------------
+
+Made by Wendy Fong, Kavi Harshawat, Tiffani Bell, Maya Benari, Preston Rhea
+![Storyteller Award](https://raw.githubusercontent.com/codeforamerica/crosshack/master/Badges/02/02_StoryTeller.png)
