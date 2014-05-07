@@ -22,4 +22,4 @@ Mobile Orchestra
 
 A webapp that generates music based on data from a riders on a group bike ride.
 
-Made by Drew, Jden, Maya, Jeremia, Max, Ainsley
+Made by Drew, Jden, Maya, Jeremia, Max, Ainsley, Peter
