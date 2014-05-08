@@ -23,3 +23,15 @@ Mobile Orchestra
 A webapp that generates music based on data from a riders on a group bike ride.
 
 Made by Drew, Jden, Maya, Jeremia, Max, Ainsley, Peter
+
+Tiz (Codename: Cheeky Citybot)
+------------
+- Code: https://github.com/dget/citybot
+- Live Demo: n/a
+
+A single phone-number to SMS to get information about your city. 311, but with personality.
+
+Made by Gisselle, Sam, Wendy, Amy, Dan, Erica
+
+
+
